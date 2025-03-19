@@ -1,6 +1,6 @@
 Diagrama de classes
 
-'''mermaid
+```mermaid
 
 classDiagram
     class User {
@@ -37,4 +37,4 @@ classDiagram
     User --> Feature : has
     User --> Card
     User --> News : has
-'''
+```
